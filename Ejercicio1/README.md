@@ -7,6 +7,7 @@ debe imprimir el mensaje "Entrada Invalida".
 Se consideran numeros validos los enteros en el rango
 [0, 7].
 Ejemplo:
+
 Entrada del Usuario | Salida del programa
 ------------------- | -------------------
  1					| "Domingo"
@@ -15,8 +16,8 @@ Entrada del Usuario | Salida del programa
  8					| "Entrada Invalida"
  7 					| "Sabado"
 
->NOTA: Puedes hacer uso solamente de la estructura
-de control switch. Sintaxis switch c#:
+>NOTA: No es necesario, pero se recomienda el uso de la estructura
+de control switch. Sintaxis switch C#:
 
 ```C#
 switch(var){
