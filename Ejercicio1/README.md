@@ -7,6 +7,7 @@ debe imprimir el mensaje "Entrada Invalida".
 Se consideran numeros validos los enteros en el rango
 [0, 7].
 Ejemplo:
+
 Entrada del Usuario | Salida del programa
 ------------------- | -------------------
  1					| "Domingo"
