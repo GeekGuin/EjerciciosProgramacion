@@ -1,5 +1,6 @@
-# Tipos de dato (@maitzeth has la tarea amaguevo :D :pizza:)
+# Tipos de dato
 
+(@maitzeth has la tarea amaguevo :D :pizza:)
 Tabla con los tipos de dato de C#, operadores para cada tipo de dato,
 y en el caso de los numericos indicar tamaño maximo.
 
