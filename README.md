@@ -1,19 +1,25 @@
-# EjerciciosProg :penguin:
-Hay 4 ramas muchachos, la rama master, y una para cada
-uno:
-  - master
-  - andre
-  - samuel
-  - victor
+# C#
+C# es un lenguaje de programacion interpretado, el que compila a un lenguaje
+intermedio, y luego el interprete se encarga de ejecutar este lenguaje
+intermedio y nos genera un ejecutable.
 
-Realicen su solucion y subanla unicamente a su rama, para
-agregar ejercicios se agregaran directamente a la rama
-master y de ahi se haran merge a sus ramas para llevarse
-esos cambios.
-En sus ramas no editen los archivos README.md, para que no
-haya problemas con el merge.
+Aqui podemos ver un programa basico que posee un metodo Main, cabe destacar
+que el metodo Main se llama solo al ejecutar el .exe.
 
-Para entregar las tareas, dentro de la carpeta incluir
-el codigo fuente y con el mismo nombre de la carpeta.
-En el README.md del ejercicio se indicara si debe
-incluir documentacion o archivos adicionales.
+```C#
+using System;
+
+class Demo{
+	static void Main(){
+		int x = 2;
+		int y = 3;
+		//~ Console.WriteLine( f(x) );
+		Console.WriteLine( f(y) );
+	}
+	
+	static int f(int mierda){
+		return(mierda + 1);
+	}
+}
+```
+
