@@ -1,4 +1,4 @@
-# C \#
+# README
 C# es un lenguaje de programacion interpretado, el que compila a un lenguaje
 intermedio, y luego el interprete se encarga de ejecutar este lenguaje
 intermedio y nos genera un ejecutable.
