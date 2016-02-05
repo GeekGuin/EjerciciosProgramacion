@@ -30,7 +30,7 @@ Recordas que existen:
 Ejemplo:
 
 Tipo de Dato Entero | Para que sirve         | Operadores            | Tamaño Minimo  | Tamaño Maximo | 
-------------------- | ---------------------- | --------------------- | -------------- |               |
+------------------- | ---------------------- | --------------------- | -------------- | ------------- |
 "int"               | Representa enteros     | +, -, /, %, ++, --, * | -2.147.483.648 | 2.147.483.647 | 
 "char"              | Representan Caracteres |                       | -128,127       | 255           | 
 "float"             | Almacena Reales(4bytes)| +, -, /, %, ++, --, * | 1E-38          | 1E+38         |
