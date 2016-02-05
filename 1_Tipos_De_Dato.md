@@ -5,11 +5,11 @@ Tabla con los tipos de dato de C#, operadores para cada tipo de dato,
 y en el caso de los numericos indicar tamaño maximo.
 
 Recordas que existen:
-- Operadores logicos (and, or, not) Ejemplo{
-	x && y (AND),
-	x || y (OR),
-	x ! y (NOT)
-}
+- Operadores logicos (and, or, not)
+  - x && y (AND),
+  - x || y (OR),
+  - x ! y (NOT)
+
 - Operadores de comparación (igualdad, menor que) Ejemplo{
 	x = y (asignación),
 	x == y (comparación),
@@ -29,7 +29,7 @@ Recordas que existen:
 
 Ejemplo:
 
-Tipo de Dato Entero | Para que sirve         | Operadores            | Tamaño Minimo  | Tamaño Maximo | 
+Tipo de Dato        | Para que sirve         | Operadores            | Tamaño Minimo  | Tamaño Maximo | 
 ------------------- | ---------------------- | --------------------- | -------------- | ------------- |
 "int"               | Representa enteros     | +, -, /, %, ++, --, * | -2.147.483.648 | 2.147.483.647 | 
 "char"              | Representan Caracteres |                       | -128,127       | 255           | 
