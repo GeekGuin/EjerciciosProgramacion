@@ -1,0 +1,9 @@
+git push -u origin master //Reminds dat the next push will be in the same branch
+git add '*.txt' //Add to the commit all archives with txt extension
+git diff HEAD
+git branch clean_up // Create a new branch with name clean_up
+git checkout clean_up // Swtich to another branch
+git rm | eg: git rm '*.txt' // Delete all files from server and local
+git commit -m "Remove all the cats" // Commit that removed all cats
+git merge clean_up // Merge to this branch
+git branch -d clean_up // Delete this branch
