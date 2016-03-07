@@ -1,0 +1,12 @@
+Un programa que pida nombre y cargo en una empresa, y diga cuanto gana
+cada empleado dependiendo de su cargo:
+
+Vice Presidente: 200
+Administrador: 150
+Gerente: 125
+Empleado: 100
+Ayudante: 75
+
+Ejemplo de salida:
+
+Maize es Gerente y gana 125$
