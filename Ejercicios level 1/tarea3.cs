@@ -9,7 +9,7 @@ public class SamuelGay{
       nombre = Console.ReadLine();
       // Ingreso cargo del empleado
       Console.WriteLine("Listado de Cargos");
-      Console.WriteLine("1.- Vice - Presidente");
+      Console.WriteLine("1.- Presidente");
       Console.WriteLine("2.- Administrador");
       Console.WriteLine("3.- Gerente");
       Console.WriteLine("4.- Empleado");
@@ -20,20 +20,20 @@ public class SamuelGay{
        
 	  //Condiciones y Arojo de Resultados
 		switch (cargo){
-		case "Vice - Presidente":
-			Console.WriteLine("Nombre: " + nombre + ", Cargo: Vice - Presidente y Gana: 200$");
+		case "Presidente":
+			Console.Write(nombre + "\n\t-Presidente\n\t-200$\n \a");
 			break;
 		case "Administrador":
-			Console.WriteLine("Nombre: " + nombre + ", Cargo: Administrador y Gana: 150$");
+			Console.Write(nombre + "\n\t-Administrador\n\t-150$\n \a");
 			break;
 		case "Gerente":
-			Console.WriteLine("Nombre: " + nombre + ", Cargo: Gerente y Gana: 125$");
+			Console.Write(nombre + "\n\t-Gerente\n\t-125$\n \a");
 			break;
 		case "Empleado":
-			Console.WriteLine("Nombre: " + nombre + ", Cargo: Empleado y Gana: 100$");
+			Console.Write(nombre + "\n\t-Empleado\n\t-100$\n \a");
 			break;
 		case "Ayudante":
-			Console.WriteLine("Nombre: " + nombre + ", Cargo: Ayudante y Gana: 75$");
+			Console.Write(nombre + "\n\t-Ayudante\n\t-150$\n \a");
 			break;
 		default:
 			Console.WriteLine("Cargo Incorrecto, Intenta de nuevo MARICA");
