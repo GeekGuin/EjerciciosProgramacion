@@ -32,7 +32,7 @@ Elabora un programa que halle la suma de dos numeros enteros. Deberias hacerte p
 
 - **El Analisis**: Es imporatnte hacer un buen analisis de cual es especificamente el problema a resolver y como solucionarlo. De un buen analisis dependeran los buenos resultados que arroje el algoritmo.
 
-- **Escribir el algoritmo **: Despues de haber analizado el problema de forma abstracta, se debe llevar al papel, mediante instrucciones y tecnicas adecuadas de analisis.
+- **Escribir el algoritmo**: Despues de haber analizado el problema de forma abstracta, se debe llevar al papel, mediante instrucciones y tecnicas adecuadas de analisis.
 
 - **Depuracion (Debugging)**: o Ejecutar en papel, recuerda que la programacion es un trabajo de oficina, primero piensa luego programa, para ello los algoritmos se desarrollan primero en papel, prueba tu algoritmo con valores distintos donde siempre te retorne el resultado deseado, una vez concluida esta fase recienn ahi se sugiere llevarlo a la computadora con el lenguaje de programacion que se desee.
 
@@ -100,16 +100,41 @@ Nótese también la clara separación entre estructuras de datos y algoritmos. S
 
 *En general, las variables son espacios que se reservan o se separan en la memoria para almacenar cualquier tipo de información (números, letras, frases, etc.), las variables pueden tener cualquier nombre pero preferiblemente deben ser mnemotécnico, es decir, que tenga relación con él o los datos que se almacenarán en la variable.*
 
-1.No pueden comenzar con números. 
-2.No pueden contener símbolos u operadores en ninguna posición del nombre, excepto “_”.
-3.No pueden contener espacios.
-4.Se sugiere que el nombre de las variables no sean mayor de 8 caracteres. 
+- No pueden comenzar con números. 
+- No pueden contener símbolos u operadores en ninguna posición del nombre, excepto “_”.
+- No pueden contener espacios.
+- Se sugiere que el nombre de las variables no sean mayor de 8 caracteres. 
 
-**###Comentarios**
+######Constantes
+
+Las constantes son similares a las variables, la diferencia es que el valor que con tienen es un valor fijo (su contenido nunca cambia) cuando se asigna un valor a la constante este ya no puede ser modificado durante la ejecución del programa o el algoritmo es invariable.
+
+**Tipos de Constantes**
+- Constantes Numericas (Enteros y Reales)
+- Constantes Alfanumericas
+- Constantes Logicas (Bool)
+
+**Comentarios**
 El útil concepto del comentario: son líneas de texto que el compilador o el intérprete no consideran como parte del código, con lo cual no están sujetas a restricciones de sintaxis y sirven para aclarar partes de código en posteriores lecturas y, en general, para anotar cualquier cosa que el programador considere oportuno.
 
 Uno como programador debe tener como prioridad documentar nuestro código fuente ya que al momento de depurar (*Depuración de programas es el proceso de identificar y corregir errores de programación. En inglés se le conoce como debugging, es que se asemeja a la eliminación bugs*) nos ahorrará mucho tiempo de analisis para su corrección o estudio.
 
 Los programadores profesionales tienen la buena costumbre de documentar sus programas con encabezados de texto (encabezados de comentarios) en donde describen la función que va a realizar dicho programa, la fecha de creación, el nombre del autor y en algunos casos las fechas de revisión y el nombre del revisor.
 
-asdasdasd
+##Operadores Aritmeticos
+
+Son elementos que relacionan de forma diferente los valores de una o más variables. Es decir, los operadores nos permiten manipular los datos guardados en las variables o constantes. 
+
+Operadores | Se utiliza para:
+------------ | -------------
++ | Suma
+- | Resta
+* | Multiplicacion
+/ | Division
+% | Resto
+^ | Potencia
+
+
+
+
+  
