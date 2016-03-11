@@ -111,3 +111,5 @@ El útil concepto del comentario: son líneas de texto que el compilador o el in
 Uno como programador debe tener como prioridad documentar nuestro código fuente ya que al momento de depurar (*Depuración de programas es el proceso de identificar y corregir errores de programación. En inglés se le conoce como debugging, es que se asemeja a la eliminación bugs*) nos ahorrará mucho tiempo de analisis para su corrección o estudio.
 
 Los programadores profesionales tienen la buena costumbre de documentar sus programas con encabezados de texto (encabezados de comentarios) en donde describen la función que va a realizar dicho programa, la fecha de creación, el nombre del autor y en algunos casos las fechas de revisión y el nombre del revisor.
+
+asdasdasd
